@@ -8,7 +8,7 @@
 
   gcc -Wall fusexmp.c `pkg-config fuse --cflags --libs` -o fusexmp
 */
-
+//test!!!:
 #define FUSE_USE_VERSION 26
 
 #ifdef HAVE_CONFIG_H
